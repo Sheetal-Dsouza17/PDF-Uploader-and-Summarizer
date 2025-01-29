@@ -1,6 +1,8 @@
 # PDF-Uploader-and-Summarizer
 📄 Overview
 This project is a Streamlit-based web application that allows users to upload multiple PDF files and extract structured text summaries from them. The extracted information includes diagnosis, symptoms, medical history, and treatment details, which can be downloaded as a CSV file.
+
+
 🚀 Features
 ✅ Upload multiple PDF medical records.
 ✅ Extract key information using OCR (Tesseract) and regular expressions.
